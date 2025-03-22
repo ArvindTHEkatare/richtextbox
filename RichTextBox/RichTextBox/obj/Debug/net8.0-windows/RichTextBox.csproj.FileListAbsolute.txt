@@ -1,0 +1,17 @@
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\bin\Debug\net8.0-windows\RichTextBox.exe
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\bin\Debug\net8.0-windows\RichTextBox.deps.json
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\bin\Debug\net8.0-windows\RichTextBox.runtimeconfig.json
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\bin\Debug\net8.0-windows\RichTextBox.dll
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\bin\Debug\net8.0-windows\RichTextBox.pdb
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\obj\Debug\net8.0-windows\RichTextBox.Form1.resources
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\obj\Debug\net8.0-windows\RichTextBox.Properties.Resources.resources
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\obj\Debug\net8.0-windows\RichTextBox.csproj.GenerateResource.cache
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\obj\Debug\net8.0-windows\RichTextBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\obj\Debug\net8.0-windows\RichTextBox.AssemblyInfoInputs.cache
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\obj\Debug\net8.0-windows\RichTextBox.AssemblyInfo.cs
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\obj\Debug\net8.0-windows\RichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\obj\Debug\net8.0-windows\RichTextBox.dll
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\obj\Debug\net8.0-windows\refint\RichTextBox.dll
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\obj\Debug\net8.0-windows\RichTextBox.pdb
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\obj\Debug\net8.0-windows\RichTextBox.genruntimeconfig.cache
+C:\Users\Arvind\source\repos\RichTextBox\RichTextBox\obj\Debug\net8.0-windows\ref\RichTextBox.dll
